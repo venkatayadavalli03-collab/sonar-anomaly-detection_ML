@@ -55,14 +55,14 @@ Isolation Forest isolates anomalies based on how different they are from normal 
 
 -------------------------------------------------------------------------------------------
 
-## 🌍 Applications
+# Applications
 - Autonomous Underwater Vehicles (AUVs)
 - Sonar anomaly detection
 - Fraud detection
 - Predictive maintenance
 - Early warning systems
 ---------------------------------------------------------------------------------------------
-## 🛠️ Tech Stack
+# Tech Stack
 - Python
 - Pandas
 - Scikit-learn
@@ -70,7 +70,7 @@ Isolation Forest isolates anomalies based on how different they are from normal 
 
 ------------------------------------------------------------------------------------------------
 
-## 🔮 Future Work
+# Future Work
 - Real-time anomaly detection pipeline
 - Integration with streaming data
 - Deployment as an API
